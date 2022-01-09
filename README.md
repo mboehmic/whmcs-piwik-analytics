@@ -7,7 +7,7 @@ Piwik / Matomo Analytics
 Author: [Biteno GmbH] (https://www.biteno.com), M. Boehmichen 
 
 https://github.com/mboehmic/
- *
+ 
 ## Description:
 Addon Module for whmcs to integrate Piwik/Matomo ecommerce tracking in whmcs
 
@@ -17,7 +17,7 @@ Matomo 4.2.1
 
 whmcs: 8.3.2
 
-Multibrand for whmcs 2.9.1 by ModulesGarden (you do not need to use Multibrand)
+Multibrand for whmcs 2.9.1 by ModulesGarden (you do not need to use Multibrand to use this plugin)
 
 ## Concept:
 The addon allows up to 6 different brands or domains out of whmcs to be tracked individually to piwik/Matomo. 
@@ -64,4 +64,4 @@ I have tested the addon but I am by no means a well trained software developper
 Use at your own risk ;-) 
 
 ## Improvements / Feedback
-Feel free to improse the addon. If you have any suggestions for improvement, please let me know.
+Feel free to improve the addon. If you have any suggestions for improvement, please let me know.
