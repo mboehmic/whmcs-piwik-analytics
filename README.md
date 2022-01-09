@@ -3,24 +3,30 @@ Addon for Piwik / Matomo analytics in WHMCS
 
 
 Piwik / Matomo Analytics
-Version: 1.0
-Author: Biteno GmbH , M. Boehmichen 
+
+Author: [Biteno GmbH] (https://www.biteno.com), M. Boehmichen 
+
 https://github.com/mboehmic/
  *
 ## Description:
 Addon Module for whmcs to integrate Piwik/Matomo ecommerce tracking in whmcs
 
 Tested with: 
+
 Matomo 4.2.1 
+
 whmcs: 8.3.2
+
 Multibrand for whmcs 2.9.1 by ModulesGarden (you do not need to use Multibrand)
 
 ## Concept:
-the addon allows up to 6 different brands or domains out of whmcs to be tracked individually to piwik/Matomo
+The addon allows up to 6 different brands or domains out of whmcs to be tracked individually to piwik/Matomo. 
+
 The idea behind the plugin: Use a piwik template (rather a fixed piece of javascript code) and insert piwik Domain-ID and variables as needed.
-the file "hooks.php" in the addon directory ensures that every checkout witnhin whmcs is tracked as an ecommcerce sales
-the file clientare_hook.php delivers the appropriate variables for your piwik url and piwik id through the template and
-ensures the piwik tracking mechanism is fired for every page in the clientarea
+
+The file "hooks.php" in the addon directory ensures that every checkout witnhin whmcs is tracked as an ecommcerce sales. Tthe file clientare_hook.php delivers the appropriate variables for your piwik url and piwik id through the template and
+ensures the piwik tracking mechanism is fired for every page in the clientarea.
+
 
 ## Installation
 Copy the folder "piwik_analytics" with  "piwik_analytics.php" and "hooks.php" to your WHMCS\modules\addons\ directory.
