@@ -64,4 +64,6 @@ I have tested the addon but I am by no means a well trained software developper
 Use at your own risk ;-) 
 
 ## Improvements / Feedback
-Feel free to improve the addon. If you have any suggestions for improvement, please let me know.
+Feel free to improve the addon. If you have any suggestions for improvement, please let me know. If you like the addon we'd appreciate your feedback as well.
+
+
