@@ -44,7 +44,7 @@ Open "footer.tpl" in your preferred template and find the line
 
 Add the following line after 
 
-{include file="$template/includes/footer-piwik.tpl}
+{include file="$template/includes/footer-piwik.tpl"}
 
 
 ## Setup inside whmcs
